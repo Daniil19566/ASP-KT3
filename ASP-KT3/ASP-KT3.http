@@ -1,0 +1,5 @@
+﻿@ASP-KT3_HostAddress = https://localhost:7036
+
+GET {{ASP-KT3_HostAddress}}/pizza
+
+###
